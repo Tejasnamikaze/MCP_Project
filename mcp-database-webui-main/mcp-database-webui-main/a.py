@@ -3,7 +3,7 @@ config = {
         "mcpServers": {
             "sql": {
                 "command": "uv",
-                "args": ["--directory", "C:/Users/arpbhusa/Documents/Project/MCP/mcp-database-webui-main/mcp-database-webui-main/mcp-server", "run", "main.py"],
+                "args": ["--directory", "C:/Users/Tejas/Documents/Project/MCP/mcp-database-webui-main/mcp-database-webui-main/mcp-server", "run", "main.py"],
                 "env": {
                     "DB_HOST": "localhost",
                     "DB_PORT": "3306",
