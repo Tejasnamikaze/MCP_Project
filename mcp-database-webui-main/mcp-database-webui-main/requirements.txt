@@ -1,0 +1,7 @@
+flask
+flask-cors
+python-dotenv
+google-generativeai
+mcp_use
+mysql-mcp-server
+langchain_anthropic
